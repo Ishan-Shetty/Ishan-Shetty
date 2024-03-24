@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently pursuing **Btech in CSE**
 
-- 🌱 I’m currently learning **CSS and Javascript**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
