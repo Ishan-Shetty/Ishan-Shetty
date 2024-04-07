@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋</h1>
 <h3 align="left">I'm Ishan Shetty</h3>
-<img align="right" width ="550"  src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align="right" width ="535"  src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 - 🔭 I’m currently pursuing **Btech in CSE**
 - 📫 How to reach me **ishanshetty.10@gmail.com**
