@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently pursuing **Btech in CSE**
 - 📫 How to reach me **ishanshetty.10@gmail.com**
-- 🧠 I would love to collaborate on **DSA** and **Web development**
+- 🧠 I would love to collaborate on **Web development**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +20,10 @@
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" />
    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
-                  </p>
+   <img width="12" />  <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="40" />
+    <img width="12" /> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height="40" /> 
+     <img width="12" />  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40"> 
+</p>
 <h3 align="left">I Use:</h3>
 <p><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p>
   
