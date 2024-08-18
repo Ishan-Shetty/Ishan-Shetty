@@ -1,10 +1,9 @@
-<h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm Ishan Shetty</h3>
+<h1 align="center">Hi everyone 👋 I'm Ishan Shetty</h1>
 <img align="center" width ="100%"  src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
-- 🔭 I’m currently pursuing **Btech in CSE**
-- 📫 How to reach me **ishanshetty.10@gmail.com**
-- 🧠 I would love to collaborate on **Web development**
+- 🔭 I’m currently pursuing **Btech** in **CSE** at **NMAM Institute of Technology**
+- 📫 Reach me out: **ishanshetty.10@gmail.com**
+- 🧠 I would love to collaborate on any **Tech** related stuff
 
 
 <h3 align="left">Connect with me:</h3>
@@ -14,7 +13,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks I work with:</h3>
 <p align="left">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
