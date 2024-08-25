@@ -4,6 +4,7 @@
 - 🔭 I’m currently pursuing **Btech** in **CSE** at **NMAM Institute of Technology**
 - 📫 Reach me out: **ishanshetty.10@gmail.com**
 - 🧠 I would love to collaborate on any **Tech** related stuff
+- 💫 I am always ready to learn so let's go together 😄
 
 
 <h3 align="left">Connect with me:</h3>
