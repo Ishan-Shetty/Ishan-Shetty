@@ -1,39 +1,66 @@
-<h1 align="center">Hi everyone 👋 I'm Ishan Shetty</h1>
 
+<h1 align="center">Hi, I'm Ishan Shetty! 👋</h1>
 
-- 🔭 I’m currently pursuing **Btech** in **CSE** at **NMAM Institute of Technology**
-- 📫 Reach me out: **ishanshetty.10@gmail.com**
-- 🧠 I would love to collaborate on any **Tech** related stuff
-- 💫 I am always ready to learn so let's grow together 😄
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ishan-shetty-0a889821a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <b>🧠 Passionate about Tech | 💡 Always Learning | 🚀 Let's Collaborate!</b>
+</p>
+
+<p align="center">
+  📩 <b>Email:</b> <a href="mailto:ishanshetty.10@gmail.com">ishanshetty.10@gmail.com</a>
+</p>
+
+
+
+<h3 align="center">📌 Connect with Me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishan-shetty-0a889821a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
 </p>
 
-<h3 align="center">Languages and Frameworks I work with:</h3>
-<p align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" />
-   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
-   <img width="12" />  <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="40" />
-    <img width="12" /> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height="40" /> 
-     <img width="12" />  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40"> 
-    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" />
-    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  height="40"/>
-    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
-    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40"/>
-    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" height="40"/>
+---
+
+<h3 align="center">🚀 Tech Stack</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" height="40" alt="tRPC" />
 </p>
 
-  
-## 📊 GitHub Stats:
- [![Ishan-Shetty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Shetty&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Shetty&theme=dark)](https://git.io/streak-stats)
 ---
-[![](https://visitcount.itsvg.in/api?id=Ishan-Shetty&icon=0&color=12)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ishan-Shetty&theme=dark&show_icons=true" alt="GitHub Stats" />
+  </a>
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Shetty&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 
