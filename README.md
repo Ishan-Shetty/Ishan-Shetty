@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋 I'm Ishan Shetty</h1>
-<img align="center" width ="100%"  src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+
 
 - 🔭 I’m currently pursuing **Btech** in **CSE** at **NMAM Institute of Technology**
 - 📫 Reach me out: **ishanshetty.10@gmail.com**
@@ -23,6 +23,11 @@
    <img width="12" />  <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="40" />
     <img width="12" /> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height="40" /> 
      <img width="12" />  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40"> 
+    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" />
+    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  height="40"/>
+    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
+    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40"/>
+    <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" height="40"/>
 </p>
 
   
